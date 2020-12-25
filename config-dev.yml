@@ -1,2 +1,4 @@
 config:
   info: 58
+server:
+  port: 110
